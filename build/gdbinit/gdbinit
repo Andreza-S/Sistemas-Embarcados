@@ -1,0 +1,2 @@
+source /home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/gdbinit/symbols
+source /home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/gdbinit/connect

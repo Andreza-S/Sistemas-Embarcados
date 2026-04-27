@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/CMakeFiles/bootloader
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/CMakeFiles/bootloader.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/CMakeFiles/bootloader-complete.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/andreza/Desktop/projetos-esp32/atividade6-interrupcoes/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
